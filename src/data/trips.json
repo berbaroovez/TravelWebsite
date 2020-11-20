@@ -1,0 +1,26 @@
+[
+    {
+        "img": "../assets/images/travel-1.jpg",
+        "alt": "Egypt Pyramids",
+        "name": "Egypt Pyramids",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/travel-2.jpg",
+        "alt": "Tokyo",
+        "name": "Tokyo",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/travel-3.jpg",
+        "alt": "Chicago Skyline",
+        "name": "Chicago",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/travel-4.jpg",
+        "alt": "Paris",
+        "name": "Paris",
+        "button": "View Destination"
+    }
+]
